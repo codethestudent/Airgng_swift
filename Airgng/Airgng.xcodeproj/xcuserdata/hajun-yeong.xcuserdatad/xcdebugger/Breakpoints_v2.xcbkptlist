@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C2EB6B0D-8822-4FD3-9525-91BE0371B107"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "01336BD4-E1A8-4BEA-B603-3D5558A58E54"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Airgng/DetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "DetailViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "01336BD4-E1A8-4BEA-B603-3D5558A58E54 - dedca67ae35c846c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Airgng.DetailViewController.heightLabel.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Airgng"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hajun-yeong/Desktop/,,/Airgng_proj/Airgng/Airgng/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "01336BD4-E1A8-4BEA-B603-3D5558A58E54 - d2feec3521256078"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Airgng.DetailViewController.heightLabel.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Airgng"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hajun-yeong/Desktop/,,/Airgng_proj/Airgng/Airgng/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "01336BD4-E1A8-4BEA-B603-3D5558A58E54 - 8d2066dd55ae1b1c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Airgng.DetailViewController.heightLabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Airgng"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hajun-yeong/Desktop/,,/Airgng_proj/Airgng/Airgng/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "01336BD4-E1A8-4BEA-B603-3D5558A58E54 - 1a9fa8e14c18e007"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Airgng.DetailViewController.heightLabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Airgng"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hajun-yeong/Desktop/,,/Airgng_proj/Airgng/Airgng/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "01336BD4-E1A8-4BEA-B603-3D5558A58E54 - 7237e712d7e062ec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Airgng.DetailViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Airgng.DetailViewController"
+                  moduleName = "Airgng"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hajun-yeong/Desktop/,,/Airgng_proj/Airgng/Airgng/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "416">
+               </Location>
+               <Location
+                  uuid = "01336BD4-E1A8-4BEA-B603-3D5558A58E54 - e20bb329a977433a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Airgng.DetailViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Airgng.DetailViewController&gt;"
+                  moduleName = "Airgng"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hajun-yeong/Desktop/,,/Airgng_proj/Airgng/Airgng/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "392">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
